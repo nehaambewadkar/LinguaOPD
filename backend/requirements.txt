@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+spacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+googletrans==4.0.0-rc1
+google-generativeai
+sqlalchemy
+aiosqlite
+python-dotenv
+pydantic
