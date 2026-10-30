@@ -1,6 +1,7 @@
 # LinguaOPD: AI-Assisted Multilingual OPD Documentation System
 
 **LinguaOPD** is a state-of-the-art medical documentation assistant designed to streamline the Outpatient Department (OPD) consultation process. By leveraging advanced AI and multilingual support, it captures doctor-patient conversations, transcribes them, and automatically generates standardized, professional medical documents.
+Simplifies OPD consultations by capturing and transcribing doctor-patient conversations with multilingual support.
 
 ---
 
